@@ -1,0 +1,333 @@
+[00:35:08.845] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[00:35:08.846] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[00:35:08.846] 70 test iterations per epoch
+[00:38:33.301] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[00:38:33.302] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[00:38:33.302] 70 test iterations per epoch
+[00:38:57.659] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[00:38:57.659] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[00:38:57.660] 70 test iterations per epoch
+[00:39:49.271] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[00:39:49.271] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[00:39:49.272] 70 test iterations per epoch
+[00:40:52.992] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[00:40:52.992] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[00:40:52.993] 70 test iterations per epoch
+[00:41:31.425] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[00:41:31.425] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[00:41:31.426] 70 test iterations per epoch
+[00:43:32.316] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[00:43:32.316] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[00:43:32.317] 70 test iterations per epoch
+[00:55:11.048] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[00:55:11.049] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[00:55:11.049] 70 test iterations per epoch
+[00:55:52.324] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[00:55:52.325] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[00:55:52.325] 70 test iterations per epoch
+[00:55:54.565] idx 0 case nucleus_600.npz mean_dice 0.793177 mean_hd95 1.414214
+[00:55:54.674] idx 1 case nucleus_601.npz mean_dice 0.961362 mean_hd95 1.000000
+[00:55:54.787] idx 2 case nucleus_602.npz mean_dice 0.908257 mean_hd95 1.000000
+[00:55:54.910] idx 3 case nucleus_603.npz mean_dice 0.950546 mean_hd95 1.000000
+[00:55:55.022] idx 4 case nucleus_604.npz mean_dice 0.937676 mean_hd95 1.000000
+[00:55:55.134] idx 5 case nucleus_605.npz mean_dice 0.916357 mean_hd95 1.414214
+[00:55:55.246] idx 6 case nucleus_606.npz mean_dice 0.890963 mean_hd95 1.000000
+[00:55:55.351] idx 7 case nucleus_607.npz mean_dice 0.772910 mean_hd95 4.123106
+[00:55:55.459] idx 8 case nucleus_608.npz mean_dice 0.859873 mean_hd95 2.000000
+[00:55:55.594] idx 9 case nucleus_609.npz mean_dice 0.881315 mean_hd95 1.414214
+[00:55:55.710] idx 10 case nucleus_610.npz mean_dice 0.927022 mean_hd95 1.000000
+[00:55:55.810] idx 11 case nucleus_611.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:55:55.919] idx 12 case nucleus_612.npz mean_dice 0.964311 mean_hd95 1.000000
+[00:55:56.029] idx 13 case nucleus_613.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:55:56.147] idx 14 case nucleus_614.npz mean_dice 0.896042 mean_hd95 1.414214
+[00:55:56.249] idx 15 case nucleus_615.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:55:56.359] idx 16 case nucleus_616.npz mean_dice 0.942353 mean_hd95 1.000000
+[00:55:56.473] idx 17 case nucleus_617.npz mean_dice 0.894212 mean_hd95 1.000000
+[00:55:56.583] idx 18 case nucleus_618.npz mean_dice 0.918721 mean_hd95 1.000000
+[00:55:56.703] idx 19 case nucleus_619.npz mean_dice 0.901810 mean_hd95 1.000000
+[00:55:56.810] idx 20 case nucleus_620.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:55:56.922] idx 21 case nucleus_621.npz mean_dice 0.810651 mean_hd95 2.000000
+[00:55:57.033] idx 22 case nucleus_622.npz mean_dice 0.824367 mean_hd95 4.000000
+[00:55:57.142] idx 23 case nucleus_623.npz mean_dice 0.848041 mean_hd95 2.000000
+[00:55:57.256] idx 24 case nucleus_624.npz mean_dice 0.819991 mean_hd95 2.000000
+[00:55:57.367] idx 25 case nucleus_625.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:55:57.482] idx 26 case nucleus_626.npz mean_dice 0.859284 mean_hd95 3.605551
+[00:55:57.597] idx 27 case nucleus_627.npz mean_dice 0.960032 mean_hd95 1.000000
+[00:55:57.707] idx 28 case nucleus_628.npz mean_dice 0.889260 mean_hd95 2.000000
+[00:55:57.810] idx 29 case nucleus_629.npz mean_dice 0.950061 mean_hd95 1.414214
+[00:55:57.919] idx 30 case nucleus_630.npz mean_dice 0.966896 mean_hd95 1.000000
+[00:55:58.034] idx 31 case nucleus_631.npz mean_dice 0.941054 mean_hd95 1.000000
+[00:55:58.139] idx 32 case nucleus_632.npz mean_dice 0.832309 mean_hd95 3.605551
+[00:55:58.230] idx 33 case nucleus_633.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:55:58.346] idx 34 case nucleus_634.npz mean_dice 0.935438 mean_hd95 1.000000
+[00:55:58.485] idx 35 case nucleus_635.npz mean_dice 0.944493 mean_hd95 1.000000
+[00:55:58.597] idx 36 case nucleus_636.npz mean_dice 0.790955 mean_hd95 3.605551
+[00:55:58.701] idx 37 case nucleus_637.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:55:58.785] idx 38 case nucleus_638.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:55:58.885] idx 39 case nucleus_639.npz mean_dice 0.953778 mean_hd95 1.000000
+[00:55:58.999] idx 40 case nucleus_640.npz mean_dice 0.943798 mean_hd95 1.000000
+[00:55:59.125] idx 41 case nucleus_641.npz mean_dice 0.934237 mean_hd95 1.000000
+[00:55:59.240] idx 42 case nucleus_642.npz mean_dice 0.860458 mean_hd95 3.162278
+[00:55:59.351] idx 43 case nucleus_643.npz mean_dice 0.900312 mean_hd95 36.597423
+[00:55:59.456] idx 44 case nucleus_644.npz mean_dice 0.967498 mean_hd95 1.000000
+[00:55:59.577] idx 45 case nucleus_645.npz mean_dice 0.846015 mean_hd95 2.000000
+[00:55:59.689] idx 46 case nucleus_646.npz mean_dice 0.795652 mean_hd95 4.000000
+[00:55:59.790] idx 47 case nucleus_647.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:55:59.909] idx 48 case nucleus_648.npz mean_dice 0.944123 mean_hd95 1.000000
+[00:56:00.024] idx 49 case nucleus_649.npz mean_dice 0.929032 mean_hd95 1.000000
+[00:56:00.136] idx 50 case nucleus_650.npz mean_dice 0.836352 mean_hd95 3.000000
+[00:56:00.254] idx 51 case nucleus_651.npz mean_dice 0.921257 mean_hd95 1.000000
+[00:56:00.351] idx 52 case nucleus_652.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:56:00.462] idx 53 case nucleus_653.npz mean_dice 0.940554 mean_hd95 1.000000
+[00:56:00.563] idx 54 case nucleus_654.npz mean_dice 0.962742 mean_hd95 1.414214
+[00:56:00.683] idx 55 case nucleus_655.npz mean_dice 0.821918 mean_hd95 2.000000
+[00:56:00.793] idx 56 case nucleus_656.npz mean_dice 0.919040 mean_hd95 1.000000
+[00:56:00.908] idx 57 case nucleus_657.npz mean_dice 0.888835 mean_hd95 1.000000
+[00:56:01.030] idx 58 case nucleus_658.npz mean_dice 0.853485 mean_hd95 1.000000
+[00:56:01.146] idx 59 case nucleus_659.npz mean_dice 0.947500 mean_hd95 1.000000
+[00:56:01.258] idx 60 case nucleus_660.npz mean_dice 0.878786 mean_hd95 3.605551
+[00:56:01.374] idx 61 case nucleus_661.npz mean_dice 0.945455 mean_hd95 1.000000
+[00:56:01.481] idx 62 case nucleus_662.npz mean_dice 0.815558 mean_hd95 3.162278
+[00:56:01.583] idx 63 case nucleus_663.npz mean_dice 0.855410 mean_hd95 3.000000
+[00:56:01.686] idx 64 case nucleus_664.npz mean_dice 0.949403 mean_hd95 1.000000
+[00:56:01.807] idx 65 case nucleus_665.npz mean_dice 0.918992 mean_hd95 1.000000
+[00:56:01.917] idx 66 case nucleus_666.npz mean_dice 0.790883 mean_hd95 3.000000
+[00:56:02.016] idx 67 case nucleus_667.npz mean_dice 0.955072 mean_hd95 1.000000
+[00:56:02.131] idx 68 case nucleus_668.npz mean_dice 0.899295 mean_hd95 1.414214
+[00:56:51.754] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[00:56:51.754] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[00:56:51.754] 70 test iterations per epoch
+[00:56:53.961] idx 0 case nucleus_600.npz mean_dice 0.793177 mean_hd95 1.414214
+[00:56:54.069] idx 1 case nucleus_601.npz mean_dice 0.961362 mean_hd95 1.000000
+[00:56:54.190] idx 2 case nucleus_602.npz mean_dice 0.908257 mean_hd95 1.000000
+[00:56:54.315] idx 3 case nucleus_603.npz mean_dice 0.950546 mean_hd95 1.000000
+[00:56:54.431] idx 4 case nucleus_604.npz mean_dice 0.937676 mean_hd95 1.000000
+[00:56:54.540] idx 5 case nucleus_605.npz mean_dice 0.916357 mean_hd95 1.414214
+[00:56:54.658] idx 6 case nucleus_606.npz mean_dice 0.890963 mean_hd95 1.000000
+[00:56:54.768] idx 7 case nucleus_607.npz mean_dice 0.772910 mean_hd95 4.123106
+[00:56:54.883] idx 8 case nucleus_608.npz mean_dice 0.859873 mean_hd95 2.000000
+[00:56:54.999] idx 9 case nucleus_609.npz mean_dice 0.881315 mean_hd95 1.414214
+[00:56:55.135] idx 10 case nucleus_610.npz mean_dice 0.927022 mean_hd95 1.000000
+[00:56:55.246] idx 11 case nucleus_611.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:56:55.355] idx 12 case nucleus_612.npz mean_dice 0.964311 mean_hd95 1.000000
+[00:56:55.466] idx 13 case nucleus_613.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:56:55.576] idx 14 case nucleus_614.npz mean_dice 0.896042 mean_hd95 1.414214
+[00:56:55.695] idx 15 case nucleus_615.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:56:55.826] idx 16 case nucleus_616.npz mean_dice 0.942353 mean_hd95 1.000000
+[00:56:55.958] idx 17 case nucleus_617.npz mean_dice 0.894212 mean_hd95 1.000000
+[00:56:56.084] idx 18 case nucleus_618.npz mean_dice 0.918721 mean_hd95 1.000000
+[00:56:56.210] idx 19 case nucleus_619.npz mean_dice 0.901810 mean_hd95 1.000000
+[00:56:56.329] idx 20 case nucleus_620.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:56:56.461] idx 21 case nucleus_621.npz mean_dice 0.810651 mean_hd95 2.000000
+[00:56:56.586] idx 22 case nucleus_622.npz mean_dice 0.824367 mean_hd95 4.000000
+[00:56:56.711] idx 23 case nucleus_623.npz mean_dice 0.848041 mean_hd95 2.000000
+[00:56:56.836] idx 24 case nucleus_624.npz mean_dice 0.819991 mean_hd95 2.000000
+[00:56:56.951] idx 25 case nucleus_625.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:56:57.059] idx 26 case nucleus_626.npz mean_dice 0.859284 mean_hd95 3.605551
+[00:56:57.160] idx 27 case nucleus_627.npz mean_dice 0.960032 mean_hd95 1.000000
+[00:56:57.275] idx 28 case nucleus_628.npz mean_dice 0.889260 mean_hd95 2.000000
+[00:56:57.390] idx 29 case nucleus_629.npz mean_dice 0.950061 mean_hd95 1.414214
+[00:56:57.492] idx 30 case nucleus_630.npz mean_dice 0.966896 mean_hd95 1.000000
+[00:56:57.601] idx 31 case nucleus_631.npz mean_dice 0.941054 mean_hd95 1.000000
+[00:56:57.712] idx 32 case nucleus_632.npz mean_dice 0.832309 mean_hd95 3.605551
+[00:56:57.818] idx 33 case nucleus_633.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:56:57.926] idx 34 case nucleus_634.npz mean_dice 0.935438 mean_hd95 1.000000
+[00:56:58.068] idx 35 case nucleus_635.npz mean_dice 0.944493 mean_hd95 1.000000
+[00:56:58.180] idx 36 case nucleus_636.npz mean_dice 0.790955 mean_hd95 3.605551
+[00:56:58.280] idx 37 case nucleus_637.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:56:58.372] idx 38 case nucleus_638.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:56:58.485] idx 39 case nucleus_639.npz mean_dice 0.953778 mean_hd95 1.000000
+[00:56:58.610] idx 40 case nucleus_640.npz mean_dice 0.943798 mean_hd95 1.000000
+[00:56:58.740] idx 41 case nucleus_641.npz mean_dice 0.934237 mean_hd95 1.000000
+[00:56:58.850] idx 42 case nucleus_642.npz mean_dice 0.860458 mean_hd95 3.162278
+[00:56:58.966] idx 43 case nucleus_643.npz mean_dice 0.900312 mean_hd95 36.597423
+[00:56:59.090] idx 44 case nucleus_644.npz mean_dice 0.967498 mean_hd95 1.000000
+[00:56:59.218] idx 45 case nucleus_645.npz mean_dice 0.846015 mean_hd95 2.000000
+[00:56:59.340] idx 46 case nucleus_646.npz mean_dice 0.795652 mean_hd95 4.000000
+[00:56:59.447] idx 47 case nucleus_647.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:56:59.565] idx 48 case nucleus_648.npz mean_dice 0.944123 mean_hd95 1.000000
+[00:56:59.677] idx 49 case nucleus_649.npz mean_dice 0.929032 mean_hd95 1.000000
+[00:56:59.791] idx 50 case nucleus_650.npz mean_dice 0.836352 mean_hd95 3.000000
+[00:56:59.897] idx 51 case nucleus_651.npz mean_dice 0.921257 mean_hd95 1.000000
+[00:56:59.998] idx 52 case nucleus_652.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:57:00.122] idx 53 case nucleus_653.npz mean_dice 0.940554 mean_hd95 1.000000
+[00:57:00.223] idx 54 case nucleus_654.npz mean_dice 0.962742 mean_hd95 1.414214
+[00:57:00.333] idx 55 case nucleus_655.npz mean_dice 0.821918 mean_hd95 2.000000
+[00:57:00.438] idx 56 case nucleus_656.npz mean_dice 0.919040 mean_hd95 1.000000
+[00:57:00.548] idx 57 case nucleus_657.npz mean_dice 0.888835 mean_hd95 1.000000
+[00:57:00.653] idx 58 case nucleus_658.npz mean_dice 0.853485 mean_hd95 1.000000
+[00:57:00.770] idx 59 case nucleus_659.npz mean_dice 0.947500 mean_hd95 1.000000
+[00:57:00.877] idx 60 case nucleus_660.npz mean_dice 0.878786 mean_hd95 3.605551
+[00:57:00.986] idx 61 case nucleus_661.npz mean_dice 0.945455 mean_hd95 1.000000
+[00:57:01.097] idx 62 case nucleus_662.npz mean_dice 0.815558 mean_hd95 3.162278
+[00:57:01.206] idx 63 case nucleus_663.npz mean_dice 0.855410 mean_hd95 3.000000
+[00:57:01.307] idx 64 case nucleus_664.npz mean_dice 0.949403 mean_hd95 1.000000
+[00:57:01.420] idx 65 case nucleus_665.npz mean_dice 0.918992 mean_hd95 1.000000
+[00:57:01.546] idx 66 case nucleus_666.npz mean_dice 0.790883 mean_hd95 3.000000
+[00:57:01.664] idx 67 case nucleus_667.npz mean_dice 0.955072 mean_hd95 1.000000
+[00:57:01.783] idx 68 case nucleus_668.npz mean_dice 0.899295 mean_hd95 1.414214
+[00:57:01.890] idx 69 case nucleus_669.npz mean_dice 0.959627 mean_hd95 1.414214
+[00:57:01.998] Mean class 1 mean_dice 0.768926 mean_hd95 1.939729
+[00:57:01.998] Testing performance in best val model: mean_dice : 0.768926 mean_hd95 : 1.939729
+[01:04:31.032] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[01:04:31.032] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[01:04:31.033] 70 test iterations per epoch
+[01:04:59.973] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[01:04:59.973] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[01:04:59.974] 70 test iterations per epoch
+[01:05:52.957] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[01:05:52.957] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[01:05:52.958] 70 test iterations per epoch
+[01:06:12.211] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[01:06:12.211] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[01:06:12.211] 70 test iterations per epoch
+[01:06:59.646] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[01:06:59.646] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[01:06:59.646] 70 test iterations per epoch
+[01:07:01.771] idx 0 case nucleus_600.npz mean_dice 0.793177 mean_hd95 1.414214
+[01:07:01.821] idx 1 case nucleus_601.npz mean_dice 0.961362 mean_hd95 1.000000
+[01:07:01.881] idx 2 case nucleus_602.npz mean_dice 0.908257 mean_hd95 1.000000
+[01:07:01.940] idx 3 case nucleus_603.npz mean_dice 0.950546 mean_hd95 1.000000
+[01:07:01.996] idx 4 case nucleus_604.npz mean_dice 0.937676 mean_hd95 1.000000
+[01:07:02.062] idx 5 case nucleus_605.npz mean_dice 0.916357 mean_hd95 1.414214
+[01:07:02.116] idx 6 case nucleus_606.npz mean_dice 0.890963 mean_hd95 1.000000
+[01:07:02.172] idx 7 case nucleus_607.npz mean_dice 0.772910 mean_hd95 4.123106
+[01:07:02.235] idx 8 case nucleus_608.npz mean_dice 0.859873 mean_hd95 2.000000
+[01:07:02.291] idx 9 case nucleus_609.npz mean_dice 0.881315 mean_hd95 1.414214
+[01:07:02.346] idx 10 case nucleus_610.npz mean_dice 0.927022 mean_hd95 1.000000
+[01:07:02.398] idx 11 case nucleus_611.npz mean_dice 0.000000 mean_hd95 0.000000
+[01:07:02.452] idx 12 case nucleus_612.npz mean_dice 0.964311 mean_hd95 1.000000
+[01:07:02.507] idx 13 case nucleus_613.npz mean_dice 0.000000 mean_hd95 0.000000
+[01:07:02.563] idx 14 case nucleus_614.npz mean_dice 0.896042 mean_hd95 1.414214
+[01:07:02.611] idx 15 case nucleus_615.npz mean_dice 0.000000 mean_hd95 0.000000
+[01:07:02.675] idx 16 case nucleus_616.npz mean_dice 0.942353 mean_hd95 1.000000
+[01:07:02.735] idx 17 case nucleus_617.npz mean_dice 0.894212 mean_hd95 1.000000
+[01:07:02.793] idx 18 case nucleus_618.npz mean_dice 0.918721 mean_hd95 1.000000
+[01:07:02.859] idx 19 case nucleus_619.npz mean_dice 0.901810 mean_hd95 1.000000
+[01:07:02.919] idx 20 case nucleus_620.npz mean_dice 0.000000 mean_hd95 0.000000
+[01:07:02.987] idx 21 case nucleus_621.npz mean_dice 0.810651 mean_hd95 2.000000
+[01:07:03.038] idx 22 case nucleus_622.npz mean_dice 0.824367 mean_hd95 4.000000
+[01:07:03.095] idx 23 case nucleus_623.npz mean_dice 0.848041 mean_hd95 2.000000
+[01:07:03.149] idx 24 case nucleus_624.npz mean_dice 0.819991 mean_hd95 2.000000
+[01:07:03.198] idx 25 case nucleus_625.npz mean_dice 0.000000 mean_hd95 0.000000
+[01:07:03.249] idx 26 case nucleus_626.npz mean_dice 0.859284 mean_hd95 3.605551
+[01:07:03.296] idx 27 case nucleus_627.npz mean_dice 0.960032 mean_hd95 1.000000
+[01:07:03.355] idx 28 case nucleus_628.npz mean_dice 0.889260 mean_hd95 2.000000
+[01:07:03.408] idx 29 case nucleus_629.npz mean_dice 0.950061 mean_hd95 1.414214
+[01:07:03.463] idx 30 case nucleus_630.npz mean_dice 0.966896 mean_hd95 1.000000
+[01:07:03.519] idx 31 case nucleus_631.npz mean_dice 0.941054 mean_hd95 1.000000
+[01:07:03.570] idx 32 case nucleus_632.npz mean_dice 0.832309 mean_hd95 3.605551
+[01:07:03.613] idx 33 case nucleus_633.npz mean_dice 0.000000 mean_hd95 0.000000
+[01:07:03.667] idx 34 case nucleus_634.npz mean_dice 0.935438 mean_hd95 1.000000
+[01:07:03.723] idx 35 case nucleus_635.npz mean_dice 0.944493 mean_hd95 1.000000
+[01:07:03.776] idx 36 case nucleus_636.npz mean_dice 0.790955 mean_hd95 3.605551
+[01:07:03.823] idx 37 case nucleus_637.npz mean_dice 0.000000 mean_hd95 0.000000
+[01:07:03.856] idx 38 case nucleus_638.npz mean_dice 0.000000 mean_hd95 0.000000
+[01:07:03.903] idx 39 case nucleus_639.npz mean_dice 0.953778 mean_hd95 1.000000
+[01:07:03.963] idx 40 case nucleus_640.npz mean_dice 0.943798 mean_hd95 1.000000
+[01:07:04.022] idx 41 case nucleus_641.npz mean_dice 0.934237 mean_hd95 1.000000
+[01:07:04.078] idx 42 case nucleus_642.npz mean_dice 0.860458 mean_hd95 3.162278
+[01:07:04.135] idx 43 case nucleus_643.npz mean_dice 0.900312 mean_hd95 36.597423
+[01:07:04.185] idx 44 case nucleus_644.npz mean_dice 0.967498 mean_hd95 1.000000
+[01:07:04.244] idx 45 case nucleus_645.npz mean_dice 0.846015 mean_hd95 2.000000
+[01:07:04.296] idx 46 case nucleus_646.npz mean_dice 0.795652 mean_hd95 4.000000
+[01:07:04.344] idx 47 case nucleus_647.npz mean_dice 0.000000 mean_hd95 0.000000
+[01:07:04.403] idx 48 case nucleus_648.npz mean_dice 0.944123 mean_hd95 1.000000
+[01:07:04.464] idx 49 case nucleus_649.npz mean_dice 0.929032 mean_hd95 1.000000
+[01:07:04.518] idx 50 case nucleus_650.npz mean_dice 0.836352 mean_hd95 3.000000
+[01:07:04.573] idx 51 case nucleus_651.npz mean_dice 0.921257 mean_hd95 1.000000
+[01:07:04.621] idx 52 case nucleus_652.npz mean_dice 0.000000 mean_hd95 0.000000
+[01:07:04.677] idx 53 case nucleus_653.npz mean_dice 0.940554 mean_hd95 1.000000
+[01:07:04.727] idx 54 case nucleus_654.npz mean_dice 0.962742 mean_hd95 1.414214
+[01:07:04.785] idx 55 case nucleus_655.npz mean_dice 0.821918 mean_hd95 2.000000
+[01:07:04.843] idx 56 case nucleus_656.npz mean_dice 0.919040 mean_hd95 1.000000
+[01:07:04.912] idx 57 case nucleus_657.npz mean_dice 0.888835 mean_hd95 1.000000
+[01:07:04.966] idx 58 case nucleus_658.npz mean_dice 0.853485 mean_hd95 1.000000
+[01:07:05.023] idx 59 case nucleus_659.npz mean_dice 0.947500 mean_hd95 1.000000
+[01:07:05.076] idx 60 case nucleus_660.npz mean_dice 0.878786 mean_hd95 3.605551
+[01:07:05.140] idx 61 case nucleus_661.npz mean_dice 0.945455 mean_hd95 1.000000
+[01:07:05.200] idx 62 case nucleus_662.npz mean_dice 0.815558 mean_hd95 3.162278
+[01:07:05.249] idx 63 case nucleus_663.npz mean_dice 0.855410 mean_hd95 3.000000
+[01:07:05.298] idx 64 case nucleus_664.npz mean_dice 0.949403 mean_hd95 1.000000
+[01:07:05.360] idx 65 case nucleus_665.npz mean_dice 0.918992 mean_hd95 1.000000
+[01:07:05.421] idx 66 case nucleus_666.npz mean_dice 0.790883 mean_hd95 3.000000
+[01:07:05.477] idx 67 case nucleus_667.npz mean_dice 0.955072 mean_hd95 1.000000
+[01:07:05.542] idx 68 case nucleus_668.npz mean_dice 0.899295 mean_hd95 1.414214
+[01:07:05.593] idx 69 case nucleus_669.npz mean_dice 0.959627 mean_hd95 1.414214
+[01:07:05.689] Mean class 1 mean_dice 0.768926 mean_hd95 1.939729
+[01:07:05.689] Testing performance in best val model: mean_dice : 0.768926 mean_hd95 : 1.939729
+[00:51:32.922] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, base_lr=0.01, batch_size=24, dataset='nucleus', deterministic=1, exp='TU_nucleus224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_nucleus', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/nucleus/test_vol_h5', z_spacing=1)
+[00:51:32.922] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs24_224
+[00:51:32.927] 70 test iterations per epoch
+[00:51:45.525] idx 0 case nucleus_600.npz mean_dice 0.793177 mean_hd95 1.414214
+[00:51:45.612] idx 1 case nucleus_601.npz mean_dice 0.961362 mean_hd95 1.000000
+[00:51:45.688] idx 2 case nucleus_602.npz mean_dice 0.908257 mean_hd95 1.000000
+[00:51:45.778] idx 3 case nucleus_603.npz mean_dice 0.950546 mean_hd95 1.000000
+[00:51:45.873] idx 4 case nucleus_604.npz mean_dice 0.937676 mean_hd95 1.000000
+[00:51:45.954] idx 5 case nucleus_605.npz mean_dice 0.916357 mean_hd95 1.414214
+[00:51:46.027] idx 6 case nucleus_606.npz mean_dice 0.890963 mean_hd95 1.000000
+[00:51:46.093] idx 7 case nucleus_607.npz mean_dice 0.772910 mean_hd95 4.123106
+[00:51:46.203] idx 8 case nucleus_608.npz mean_dice 0.859873 mean_hd95 2.000000
+[00:51:46.276] idx 9 case nucleus_609.npz mean_dice 0.881315 mean_hd95 1.414214
+[00:51:46.382] idx 10 case nucleus_610.npz mean_dice 0.927022 mean_hd95 1.000000
+[00:51:46.454] idx 11 case nucleus_611.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:51:46.542] idx 12 case nucleus_612.npz mean_dice 0.964311 mean_hd95 1.000000
+[00:51:46.628] idx 13 case nucleus_613.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:51:46.706] idx 14 case nucleus_614.npz mean_dice 0.896042 mean_hd95 1.414214
+[00:51:46.802] idx 15 case nucleus_615.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:51:46.893] idx 16 case nucleus_616.npz mean_dice 0.942353 mean_hd95 1.000000
+[00:51:46.990] idx 17 case nucleus_617.npz mean_dice 0.894212 mean_hd95 1.000000
+[00:51:47.066] idx 18 case nucleus_618.npz mean_dice 0.918721 mean_hd95 1.000000
+[00:51:47.174] idx 19 case nucleus_619.npz mean_dice 0.901810 mean_hd95 1.000000
+[00:51:47.265] idx 20 case nucleus_620.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:51:47.347] idx 21 case nucleus_621.npz mean_dice 0.810651 mean_hd95 2.000000
+[00:51:47.410] idx 22 case nucleus_622.npz mean_dice 0.824367 mean_hd95 4.000000
+[00:51:47.494] idx 23 case nucleus_623.npz mean_dice 0.848041 mean_hd95 2.000000
+[00:51:47.574] idx 24 case nucleus_624.npz mean_dice 0.819991 mean_hd95 2.000000
+[00:51:47.637] idx 25 case nucleus_625.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:51:47.746] idx 26 case nucleus_626.npz mean_dice 0.859284 mean_hd95 3.605551
+[00:51:47.819] idx 27 case nucleus_627.npz mean_dice 0.960032 mean_hd95 1.000000
+[00:51:47.904] idx 28 case nucleus_628.npz mean_dice 0.889260 mean_hd95 2.000000
+[00:51:47.979] idx 29 case nucleus_629.npz mean_dice 0.950061 mean_hd95 1.414214
+[00:51:48.064] idx 30 case nucleus_630.npz mean_dice 0.966896 mean_hd95 1.000000
+[00:51:48.154] idx 31 case nucleus_631.npz mean_dice 0.941054 mean_hd95 1.000000
+[00:51:48.232] idx 32 case nucleus_632.npz mean_dice 0.832309 mean_hd95 3.605551
+[00:51:48.312] idx 33 case nucleus_633.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:51:48.421] idx 34 case nucleus_634.npz mean_dice 0.935438 mean_hd95 1.000000
+[00:51:48.519] idx 35 case nucleus_635.npz mean_dice 0.944493 mean_hd95 1.000000
+[00:51:48.589] idx 36 case nucleus_636.npz mean_dice 0.790955 mean_hd95 3.605551
+[00:51:48.677] idx 37 case nucleus_637.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:51:48.739] idx 38 case nucleus_638.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:51:48.819] idx 39 case nucleus_639.npz mean_dice 0.953778 mean_hd95 1.000000
+[00:51:48.895] idx 40 case nucleus_640.npz mean_dice 0.943798 mean_hd95 1.000000
+[00:51:48.986] idx 41 case nucleus_641.npz mean_dice 0.934237 mean_hd95 1.000000
+[00:51:49.085] idx 42 case nucleus_642.npz mean_dice 0.860458 mean_hd95 3.162278
+[00:51:49.176] idx 43 case nucleus_643.npz mean_dice 0.900312 mean_hd95 36.597423
+[00:51:49.256] idx 44 case nucleus_644.npz mean_dice 0.967498 mean_hd95 1.000000
+[00:51:49.340] idx 45 case nucleus_645.npz mean_dice 0.846015 mean_hd95 2.000000
+[00:51:49.421] idx 46 case nucleus_646.npz mean_dice 0.795652 mean_hd95 4.000000
+[00:51:49.501] idx 47 case nucleus_647.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:51:49.592] idx 48 case nucleus_648.npz mean_dice 0.944123 mean_hd95 1.000000
+[00:51:49.670] idx 49 case nucleus_649.npz mean_dice 0.929032 mean_hd95 1.000000
+[00:51:49.753] idx 50 case nucleus_650.npz mean_dice 0.836352 mean_hd95 3.000000
+[00:51:49.844] idx 51 case nucleus_651.npz mean_dice 0.921257 mean_hd95 1.000000
+[00:51:49.917] idx 52 case nucleus_652.npz mean_dice 0.000000 mean_hd95 0.000000
+[00:51:49.995] idx 53 case nucleus_653.npz mean_dice 0.940554 mean_hd95 1.000000
+[00:51:50.078] idx 54 case nucleus_654.npz mean_dice 0.962742 mean_hd95 1.414214
+[00:51:50.156] idx 55 case nucleus_655.npz mean_dice 0.821918 mean_hd95 2.000000
+[00:51:50.256] idx 56 case nucleus_656.npz mean_dice 0.919040 mean_hd95 1.000000
+[00:51:50.331] idx 57 case nucleus_657.npz mean_dice 0.888835 mean_hd95 1.000000
+[00:51:50.434] idx 58 case nucleus_658.npz mean_dice 0.853485 mean_hd95 1.000000
+[00:51:50.509] idx 59 case nucleus_659.npz mean_dice 0.947500 mean_hd95 1.000000
+[00:51:50.599] idx 60 case nucleus_660.npz mean_dice 0.878786 mean_hd95 3.605551
+[00:51:50.682] idx 61 case nucleus_661.npz mean_dice 0.945455 mean_hd95 1.000000
+[00:51:50.767] idx 62 case nucleus_662.npz mean_dice 0.815558 mean_hd95 3.162278
+[00:51:50.847] idx 63 case nucleus_663.npz mean_dice 0.855410 mean_hd95 3.000000
+[00:51:50.917] idx 64 case nucleus_664.npz mean_dice 0.949403 mean_hd95 1.000000
+[00:51:51.000] idx 65 case nucleus_665.npz mean_dice 0.918992 mean_hd95 1.000000
+[00:51:51.092] idx 66 case nucleus_666.npz mean_dice 0.790883 mean_hd95 3.000000
+[00:51:51.166] idx 67 case nucleus_667.npz mean_dice 0.955072 mean_hd95 1.000000
+[00:51:51.246] idx 68 case nucleus_668.npz mean_dice 0.899295 mean_hd95 1.414214
+[00:51:51.326] idx 69 case nucleus_669.npz mean_dice 0.959627 mean_hd95 1.414214
+[00:51:51.422] Mean class 1 mean_dice 0.768926 mean_hd95 1.939729
+[00:51:51.423] Testing performance in best val model: mean_dice : 0.768926 mean_hd95 : 1.939729
